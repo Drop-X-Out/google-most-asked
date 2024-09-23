@@ -1,6 +1,6 @@
 # DSA Problem Solutions
 
-## Table of Contents
+## Google Interview 2024
 
 1. [Find All Triplets with Zero Sum](#1-find-all-triplets-with-zero-sum)
 2. [Generate All Binary Strings from Given Pattern](#2-generate-all-binary-strings-from-given-pattern)
